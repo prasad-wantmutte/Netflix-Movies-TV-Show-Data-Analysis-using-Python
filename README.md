@@ -1,4 +1,4 @@
-## Netflix-Movies-TV-Show-Data-Analysis-using-Python   *** On Going Project ***
+## Netflix-Movies-TV-Show-Data-Analysis-using-Python
 
 ### About Netflix
 
